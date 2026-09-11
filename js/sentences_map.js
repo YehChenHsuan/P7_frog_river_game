@@ -1,4 +1,4 @@
-{
+window.SENTENCES_AUDIO_MAP = {
   "Letter ar. Sound a. Find the word that starts with ar.": "assets/audios/sentences/frog_prompt_ar.mp3",
   "Letter ar. Sound /a/. Find the word that starts with ar.": "assets/audios/sentences/frog_prompt_ar.mp3",
   "Letter ar. Find the word that starts with ar": "assets/audios/sentences/frog_intro_ar.mp3",
@@ -18,4 +18,4 @@
   "Use your yellow ruler to measure the long line. What tool do you use to measure?": "assets/audios/sentences/frog_act_b2e9633c.mp3",
   "What should you open? Open your book and look at the lesson.": "assets/audios/sentences/frog_act_5b8ba59b.mp3",
   "Open your book and look at the lesson. What should you open?": "assets/audios/sentences/frog_act_5b8ba59b.mp3"
-}
+};
